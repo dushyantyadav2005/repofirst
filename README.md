@@ -1,2 +1,2 @@
 # repofirst
-first repo from computer
+first repo from computer.
